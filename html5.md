@@ -7,8 +7,8 @@
     - sessionStorage & localStorage
 
 * 新增html元素
-    - <section>
-    - <video>,<audio>
-    - <footer>,<header>
-    - <nav>
-    - <mark> Defines marked/highlighted text
+    - `<section>`
+    - `<video>`,`<audio>`
+    - `<footer>`,`<header>`
+    - `<nav>`
+    - `<mark>` Defines marked/highlighted text
